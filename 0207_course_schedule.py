@@ -25,6 +25,5 @@ class Solution:
                 if indeg[v] == 0:
                     q.append(v)
                     
-                    
         return sum(indeg) == 0
         
