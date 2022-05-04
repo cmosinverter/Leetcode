@@ -27,3 +27,5 @@ class Solution:
                     
         return sum(indeg) == 0
         
+#Runtime: 190 ms, faster than 19.10% of Python3 online submissions for Course Schedule.
+#Memory Usage: 15.4 MB, less than 96.86% of Python3 online submissions for Course Schedule.
